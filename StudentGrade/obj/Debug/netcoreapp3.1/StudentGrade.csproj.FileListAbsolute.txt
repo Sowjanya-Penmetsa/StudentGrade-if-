@@ -1,0 +1,13 @@
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.1\StudentGrade.csprojAssemblyReference.cache
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.1\StudentGrade.csproj.CoreCompileInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.1\StudentGrade.AssemblyInfoInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.1\StudentGrade.AssemblyInfo.cs
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.1\StudentGrade.exe
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.1\StudentGrade.deps.json
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.1\StudentGrade.runtimeconfig.json
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.1\StudentGrade.runtimeconfig.dev.json
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.1\StudentGrade.dll
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\bin\Debug\netcoreapp3.1\StudentGrade.pdb
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.1\StudentGrade.dll
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.1\StudentGrade.pdb
+C:\Users\Anvesh Penmetsa\source\repos\StudentGrade\StudentGrade\obj\Debug\netcoreapp3.1\StudentGrade.genruntimeconfig.cache
